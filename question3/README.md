@@ -1,6 +1,8 @@
 ## Question 3
 
-(K&R Exercise 3-1) Our (K&R) binary search makes two tests inside the loop, when one would suffice (at the price of more tests outside). Write a version with ony one test inside the loop. Also, write a main function that calls the function with 3 different examples. If you're curious, you can also measure the difference in run-time.
+(K&R Exercise 2-4) Write an alternate version of squeeze(s1, s2) that deletes each character in s1 that matches any character in the string s2. 
+
+Write a main function that accepts inputs using either getchar or scanf. These inputs should be the two strings s1 and s2. Print out the final string, s1.
 
 Compile Steps:
 
